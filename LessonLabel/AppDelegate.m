@@ -47,6 +47,8 @@
     label.backgroundColor = [UIColor greenColor];
     //1.设置现实的文字
     label.text = @"Need you now  o(≧v≦)o~~ We found love  ￣へ￣";
+    
+    NSLog(@"0.0");
     //2.设置文字的颜色
     label.textColor = [UIColor yellowColor];
     //3.设置文字的大小
@@ -66,6 +68,7 @@
     [contentView addSubview:label];
     //释放
     [label release];
+    
     
     
     
