@@ -47,7 +47,7 @@
     label.backgroundColor = [UIColor greenColor];
     //1.设置现实的文字
     label.text = @"Need you now  o(≧v≦)o~~ We found love  ￣へ￣";
-    
+    NSLog(@"0.00");
     NSLog(@"0.0");
     //2.设置文字的颜色
     label.textColor = [UIColor yellowColor];
